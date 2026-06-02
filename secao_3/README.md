@@ -3,10 +3,20 @@
 
 # Elementos Da Versão de Celular
 
-## Integrantes 
+## Logo
 
-##
-##
+Aparece nas Telas: 5,7,9,11.13,15 e 17
+Não existem variações
+
+## Botão Primario 
+
+ Aparece nas Telas: 7,9,11,13 e 15 
+ As variações foram a adição e a redução de item necessarios para o registro ou login de empresas e usuarios  
+
+## Botão Acessibilidade 
+Aparece nas Telas: 7,9,11.13,15,19 e 23 
+Não existem variações
+
 ##
 ##
 ##

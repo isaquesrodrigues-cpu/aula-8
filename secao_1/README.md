@@ -7,11 +7,12 @@ Decisão técnica do grupo sobre a stack a ser adotada na implementação: HTML,
 
 
 
+
 # FasTrain
 
 ## Integrantes 
 
-Isaque Sampaio , Murilo Henrique , Felipe Market , Antonio Turrek 
+Isaque Sampaio , Murilo Henrique , Felipe Marquetti , Antonio Turrek 
 
 ---
 
@@ -29,6 +30,8 @@ O JavaScript atua em conjunto com o HTML e o CSS, manipulando dinamicamente a es
 ---
 
 ## Decisão Técnica
+
+Para realizar o densenvolvimento usaremos HTML, CSS e JavaScript puros sem nada adicional para não corrermos o risco de ficar mos travados em alguma tela  
 
 O JavaScript pode ser inserido no HTML de três formas:
 
