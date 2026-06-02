@@ -17,7 +17,7 @@ Isaque Sampaio , Murilo Henrique , Felipe Market , Antonio Turrek
 
 ## Links do Mockup 
 
-Link Mockup versão de celular: https://canva.link/pt1du9mz0y348gc.
+Link Mockup versão de celular: https://canva.link/pt1du9mz0y348gc.                                                                                                
 Link Mockup versão de Computador:https://canva.link/5ctzewhfkc2tht4.
 
 ---
