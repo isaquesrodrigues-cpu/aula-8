@@ -1,4 +1,34 @@
-Seção 3 — Componentes reutilizáveis identificados
+
+
+
+# Elementos Da Versão de Celular
+
+## Integrantes 
+
+##
+##
+##
+##
+##
+##
+##
+##
+##
+
+
+# Elementos Da Versão de Computador
+
+##
+##
+##
+##
+##
+##
+##
+##
+##
+
+
 
 Olhem o mockup com atenção e listem todos os elementos visuais que se repetem em mais de uma tela. Exemplos do que se espera identificar:
 
