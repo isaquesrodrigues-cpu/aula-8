@@ -7,7 +7,7 @@
 
 Aparece nas Telas: 5,7,9,11.13,15 e 17                                                                                                                           
 Não existem variações                                                                                                                                                       
-Não possue: Botão primário                
+Não possue: Botão primário 
 Login, Cadastro, Adicionar usuário
 Estado normal, hover, desabilitado
 Card de informação
@@ -18,10 +18,18 @@ Com ícone, sem ícone, com badge de alerta
  Aparece nas Telas: 7,9,11,13,15 e 25                                                                                                                                    
  As variações foram a adição e a redução de item necessarios para o registro ou login de empresas e usuarios  
 
+ Possue: Login, Cadastro, Adicionar usuário
+Estado normal, hover, desabilitado
+Card de informação
+Dashboard, Trens, Sensores
+
 ## Botão Acessibilidade 
 Aparece nas Telas: 7,9,11.13,15,19 e 23                                                                                                                          
-Não existem variações
-
+Não existem variações                                                                                                                                                      
+Não possue: Login, Cadastro, Adicionar usuário
+Estado normal, hover, desabilitado
+Card de informação
+Dashboard, Trens, Sensores
 ##
 ##
 ##
@@ -59,7 +67,7 @@ Para cada componente identificado, informem:
 Componente
 Telas em que aparece
 Variações observadas
-Botão primário
+Botão primário:
 Login, Cadastro, Adicionar usuário
 Estado normal, hover, desabilitado
 Card de informação
