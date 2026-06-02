@@ -1,13 +1,12 @@
-Seção 1 — Identificação e visão geral
+#Seção 2 
 
-Nome do grupo e integrantes
-Link do mockup do grupo (Figma ou Canva)
-Resumo do sistema em 3 a 5 linhas (o que o sistema faz, para quem, qual o diferencial)
-Decisão técnica do grupo sobre a stack a ser adotada na implementação: HTML, CSS, JavaScript puro? Algum framework? Bootstrap ou CSS puro? Justifique brevemente cada escolha.
+##Arquitetura de arquivos e pastas
 
+###Desenhe (em texto, formato de árvore) como será a estrutura de pastas do projeto. Considere todas as telas, arquivos compartilhados, assets e documentação. 
 
+###Justifique a estrutura: por que organizar dessa forma? Por que separar CSS por componente vs. por tela? Por que auth.js separado de dados.js?
 
-# INTRODUÇÃO AO JAVASCRIPT
+ # INTRODUÇÃO AO JAVASCRIPT
 
 ## 1 INTRODUÇÃO
 
