@@ -7,10 +7,15 @@
 
 Aparece nas Telas: 5,7,9,11.13,15 e 17                                                                                                                           
 Não existem variações
-
+Não possue: Botão primário
+Login, Cadastro, Adicionar usuário
+Estado normal, hover, desabilitado
+Card de informação
+Dashboard, Trens, Sensores
+Com ícone, sem ícone, com badge de alerta
 ## Botão Primario 
 
- Aparece nas Telas: 7,9,11,13 e 15                                                                                                                                  
+ Aparece nas Telas: 7,9,11,13,15 e 25                                                                                                                                    
  As variações foram a adição e a redução de item necessarios para o registro ou login de empresas e usuarios  
 
 ## Botão Acessibilidade 
