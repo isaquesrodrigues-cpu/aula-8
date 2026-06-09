@@ -69,6 +69,22 @@ Dashboard, Trens, Sensores
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Olhem o mockup com atenção e listem todos os elementos visuais que se repetem em mais de uma tela. Exemplos do que se espera identificar:
 
 Botão primário (aparece no login, cadastro, formulários)
