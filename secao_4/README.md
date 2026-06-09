@@ -4,15 +4,15 @@ Definam a ordem em que as telas e componentes serão construídos, justificando 
 
 
 
-# INTRODUÇÃO AO JAVASCRIPT
+# Ordem das telas
 
-## 1 INTRODUÇÃO
+## 1 Carregamento
 
 JavaScript é uma linguagem de programação amplamente utilizada no desenvolvimento web, sendo responsável por adicionar interatividade e dinamismo às páginas.
 
 ---
 
-## 2 FUNÇÕES DO JAVASCRIPT EM PÁGINAS WEB
+## 2 Login ou sing up
 
 O JavaScript é utilizado para tornar as páginas mais interativas, permitindo ações como cliques, animações e atualizações de conteúdo sem a necessidade de recarregar a página.
 
