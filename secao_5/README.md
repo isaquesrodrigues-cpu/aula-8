@@ -1,65 +1,85 @@
 Seção 5 — Fluxos de navegação do usuário
 
-Tracem os principais caminhos que um usuário vai percorrer ao usar o sistema. Cada fluxo descreve uma jornada completa, do ponto de partida até o objetivo cumprido. Esta seção complementa a Seção 4: enquanto lá vocês olharam para o sistema do ponto de vista de quem o constrói, aqui vocês olham do ponto de vista de quem o usa.
+# Fluxo 1: Cadastrar-se e acessar o sistema pela primeira vez
 
-Apresentem pelo menos 4 fluxos, em formato de sequência de telas e ações. Para cada fluxo, descrevam:
+## 1 Perfil: Usuário comum
 
-Nome do fluxo (o objetivo do usuário)
-Perfil do usuário (admin, operador ou técnico)
-Sequência de telas e ações
- 
+Sequência de telas e ações:
 
-Exemplo de fluxo esperado:
+Tela Inicial → clica em Sign Up
+Tela de Cadastro → preenche Nome, E-mail e Senha
+Clica em Create Account
+Sistema valida os dados e cria a conta
+Usuário retorna à Tela de Login
+Informa E-mail e Senha
+Clica em Enter
+Sistema direciona para a tela principal de consulta
+Usuário pode acessar mapas e listas de trens
+Fluxo 2: Consultar rotas e localização dos trens
 
-Fluxo 1: Cadastrar-se e acessar o sistema pela primeira vez
+## 2 Perfil: Usuário comum
 
-Perfil: novo usuário
+Sequência de telas e ações:
 
-Tela de Login → clica em "Criar conta"
+Usuário realiza login
+Acessa a tela Maps/List
+Visualiza os trens disponíveis
+Seleciona um trem da lista
+Sistema exibe a rota completa
+Usuário consulta origem, destino e localização atual
+Pode alternar entre visualização em lista e mapa
+Fluxo 3: Operador monitora a operação ferroviária
 
-Tela de Cadastro → preenche dados → clica em "Cadastrar"
+## 1 Perfil: Operador
 
-Sistema mostra mensagem de sucesso → volta para Tela de Login
+Sequência de telas e ações:
 
-Tela de Login → faz login com as credenciais criadas
+Operador realiza login
+Sistema abre o Dashboard
+Visualiza indicadores gerais da operação
+Consulta quantidade de trens ativos e em manutenção
+Verifica alertas recentes
+Seleciona um alerta para mais detalhes
+Sistema apresenta informações do trem ou sensor relacionado
+Fluxo 4: Operador identifica uma falha em sensor
 
-Dashboard → vê visão geral da frota
+## 2 Perfil: Operador
 
- 
+Sequência de telas e ações:
 
-Outros fluxos que devem ser cobertos pelo grupo (escolham 3 ou mais entre estes):
+Dashboard → acessa módulo Sensors
+Sistema exibe a lista de sensores
+Operador utiliza filtros de pesquisa
+Identifica um sensor com status de falha ou manutenção
+Seleciona o sensor desejado
+Sistema mostra os detalhes da ocorrência
+Operador verifica qual trem foi afetado
+Registra ou encaminha a ocorrência para manutenção
+Fluxo 5: Administrador cadastra um novo operador
 
-Operador identifica alerta de sensor crítico e visualiza detalhes do trem afetado
-Admin cadastra um novo usuário do sistema
-Técnico gera relatório de falhas de um período específico
-Operador filtra a lista de trens por status (em manutenção, parados, ativos)
-Usuário sai do sistema (logout)
-Admin desativa um usuário existente
- 
+## Perfil: Administrador
 
-Por que essa seção importa: cada fluxo bem descrito vira código depois — os botões precisam levar para a tela correta, as telas precisam receber os dados certos do passo anterior. Identificar isso agora evita que vocês descubram só na implementação que falta uma tela intermediária.
+Sequência de telas e ações:
 
+Administrador realiza login
+Acessa a área de gerenciamento de usuários
+Seleciona Adicionar Usuário
+Preenche os dados do novo operador
+Define o nível de acesso
+Clica em Salvar
+Sistema registra o novo usuário
+O operador passa a poder acessar o Dashboard e os módulos de monitoramento
+Fluxo 6: Usuário encerra a sessão
 
+## Perfil: Todos os usuários
 
+Sequência de telas e ações:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Usuário acessa a tela Personal Informations
+Clica em Exit
+Sistema encerra a sessão atual
+Remove as credenciais temporárias
+Redireciona para a Tela de Login
+O acesso só poderá ser realizado mediante novo login
 
 
