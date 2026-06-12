@@ -22,8 +22,8 @@ Link Mockup versão de Computador:https://canva.link/5ctzewhfkc2tht4.
 ---
 
 ## Sobre o Sistema 
- 
-O JavaScript atua em conjunto com o HTML e o CSS, manipulando dinamicamente a estrutura (HTML) e o estilo (CSS) das páginas web.
+O sistema tem como objetivo principal facilitar o dia a dia de todos os usuários que utilizam diariamente o transporte ferroviário para se locomover. Com design moderno e elegante, nosso site tem funções para rastrear trens, checar rotas, verificar a previsão de chegada e saída, além das condições de higiene de todos os trens.
+Para os empresários, o nosso site oferece o modo administrador, onde qualquer empresa pode acessar, em tempo real, cada detalhe de sua frota por meio de sensores de alta qualidade. FasTran
 
 ---
 

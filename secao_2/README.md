@@ -1,3 +1,18 @@
+# Arquitetura Esperada Do Sistema 
+
+
+Index html 
+
+app.js
+style.css 
+
+
+
+
+
+
+
+
 Seção 2 — Arquitetura de arquivos e pastas
 
 Desenhe (em texto, formato de árvore) como será a estrutura de pastas do projeto. Considere todas as telas, arquivos compartilhados, assets e documentação. 
