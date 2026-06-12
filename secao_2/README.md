@@ -1,20 +1,15 @@
 # Arquitetura Esperada Do Sistema 
 
 
-Index html 
+## Index html 
 
-app.js
-style.css 
+Usado para montar a estrutura de aplicação, estrutura dos textos, imagens... 
 
+## app.js
 
+Usado para aplicar responsividade como exemplo a responsavidade de um botão ao clicar, passar o cursor...
 
+## style.css 
 
+Usado realizar a estilização da aplicação e dar vida ao HTML com cores...
 
-
-
-
-Seção 2 — Arquitetura de arquivos e pastas
-
-Desenhe (em texto, formato de árvore) como será a estrutura de pastas do projeto. Considere todas as telas, arquivos compartilhados, assets e documentação. 
-
-Justifique a estrutura: por que organizar dessa forma? Por que separar CSS por componente vs. por tela? Por que auth.js separado de dados.js?

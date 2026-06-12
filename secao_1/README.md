@@ -1,11 +1,4 @@
 
-
-
-Resumo do sistema em 3 a 5 linhas (o que o sistema faz, para quem, qual o diferencial)
-
-
-
-
 # FasTrain
 
 ## Integrantes 
